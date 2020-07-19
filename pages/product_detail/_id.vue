@@ -61,7 +61,7 @@
             </div>
           </div>
           <div class="card-content__price is-pulled-left">
-            <span class="title is-3"><strong>{{ product.price }}&euro;</strong></span>
+            <span class="title is-3"><strong>{{ product.price }}$;</strong></span>
           </div>
           <div class="card-content__btn is-pulled-right">
             <button class="button is-primary" v-if="!isAddedBtn" @click="addToCart(product.id)">{{ addToCartLabel }}</button>

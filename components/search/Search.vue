@@ -27,7 +27,7 @@ export default {
 			if (this.$route.path === '/wishlist') {
 				return 'Search in wishlist...';
 			} else {
-				return 'Search...';
+				return 'Buscar...';
 			}
 		}
 	},

@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          Free ecommerce template for Vue.js projects
+          Plnatilla para Ecommerce Basado en VueJs 
         </h1>
         <h2 class="subtitle">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -15,7 +15,7 @@
 
 <style lang="scss" scoped>
     .hero {
-      background: rgb(81, 186, 252);
+      background:#8DD842
     }
     h1, h2 {
       color: #fff;
